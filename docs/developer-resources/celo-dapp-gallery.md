@@ -255,3 +255,12 @@ Non-custodial multichain NFT marketplace, connected to Celo
 
 * [Website](https://raregems.io/)
 * [Celo NFT collections](https://raregems.io/celo)
+
+
+### NEFTME
+
+NEFTME is a decentralized social NFT-powered network, that allows anyone, anywhere to create, share and sell a NFT, with any media content!
+Users can also benefit from the network value created through their engagement and connections, powered by their followers/supporters commitment, through NFTs Staking model with $NEFT token.
+
+* [Website]([https://neftme.com])
+* [GitHub](https://github.com/NEFTME/neftme-poc-dapp)
